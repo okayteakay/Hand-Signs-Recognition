@@ -1,5 +1,7 @@
 # Numerical-Hand-Signs-Recognition
 
+## Project Under Development
+
 The goal of building this algorithm is to facilitate communications from a speech-impaired person to someone who doesn't understand sign language.
 
 The dataset to this project is downloaded and read as h5 files, obtined from Andrew Ng's coursera course on Convolutional Neural Networks.
