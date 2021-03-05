@@ -1,4 +1,4 @@
-# Numerical-Hand-Signs-Recognition
+# Hand-Signs-Recognition
 
 ### (Project Under Development)
 
