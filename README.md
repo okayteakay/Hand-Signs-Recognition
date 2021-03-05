@@ -1,6 +1,6 @@
 # Numerical-Hand-Signs-Recognition
 
-## Project Under Development
+### (Project Under Development)
 
 The goal of building this algorithm is to facilitate communications from a speech-impaired person to someone who doesn't understand sign language.
 
