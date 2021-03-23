@@ -1,0 +1,9 @@
+tensorflow == 2.4.1
+numpy
+pandas
+opencv-python
+keras
+matplotlib
+pillow
+scikit-learn
+
